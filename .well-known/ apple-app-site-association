@@ -1,0 +1,16 @@
+{
+   "applinks": {
+      "details": [
+         {
+            "appIDs": [
+               "34AK8LNLP5.com.ts.BattleFit"
+            ],
+            "components": [
+               {
+                  "/": "/battle/*"
+               }
+            ]
+         }
+      ]
+   }
+}
